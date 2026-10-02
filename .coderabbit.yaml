@@ -1,0 +1,6 @@
+language: en-US
+reviews:
+  profile: chill
+  tools:
+    markdownlint:
+      enabled: true
